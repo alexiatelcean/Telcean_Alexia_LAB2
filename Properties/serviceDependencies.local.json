@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:Telcean_Lorena_Alexia_LAB2Context"
+    }
+  }
+}
